@@ -1,4 +1,3 @@
-```markdown
 # FruitDetection-FasterRCNN
 
 ## Faster R-CNN Object Detection on Fruits Dataset
